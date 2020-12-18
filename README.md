@@ -1,2 +1,2 @@
 ## My MOC Setup
-Extract everything to /home/eduardo/.moc and it's done 
+Delete ~/.moc and clone this repository to your home folder
